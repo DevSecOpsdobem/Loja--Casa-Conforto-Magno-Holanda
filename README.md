@@ -5,7 +5,8 @@ Este repositório contem o site da loja *Casa & Conforto*, criado como projeto d
 ## Link do site 
 
 O site pode ser acedido através do GitHub Pages:
-https://DevSecOpsdobem.git.hub.io/Loja--Casa-Conforto-Magno-Holanda
+https://devsecopsdobem.github.io/Loja--Casa-Conforto-Magno-Holanda/
+
 
 ## O que contém
 Páginas em HTML (index, sobre, catálogo e contacto)
